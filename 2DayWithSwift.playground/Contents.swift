@@ -17,4 +17,16 @@ Vingadores.append("Homem Formiga") // add a new element
 let color = Set(["blue","red","green"])
 let color2 = Set(["blue", "blue", "green", "pink"])
 
+//tuples
+var names = (first: "Mabel", last: "Kruger")
 
+names.0
+names.first
+names.last
+names.1
+
+//Arrays vs set vs tumple
+
+let tumble = (number: "1", number2: "2", number3: "3")
+let set = 
+    
